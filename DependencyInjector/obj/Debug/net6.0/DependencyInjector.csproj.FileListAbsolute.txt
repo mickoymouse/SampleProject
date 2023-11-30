@@ -1,0 +1,15 @@
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\bin\Debug\net6.0\DependencyInjector.deps.json
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\bin\Debug\net6.0\DependencyInjector.dll
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\bin\Debug\net6.0\DependencyInjector.pdb
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\bin\Debug\net6.0\SampleLibrary.dll
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\bin\Debug\net6.0\SampleLibrary.pdb
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.csproj.AssemblyReference.cache
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.AssemblyInfoInputs.cache
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.AssemblyInfo.cs
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.csproj.CoreCompileInputs.cache
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.csproj.CopyComplete
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.dll
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\refint\DependencyInjector.dll
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\DependencyInjector.pdb
+C:\Users\mcksl\Desktop\net\SampleProject\DependencyInjector\obj\Debug\net6.0\ref\DependencyInjector.dll

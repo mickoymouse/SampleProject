@@ -1,0 +1,11 @@
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\bin\Debug\net6.0\SampleLibrary.deps.json
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\bin\Debug\net6.0\SampleLibrary.dll
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\bin\Debug\net6.0\SampleLibrary.pdb
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.AssemblyInfoInputs.cache
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.AssemblyInfo.cs
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.dll
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\refint\SampleLibrary.dll
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\SampleLibrary.pdb
+C:\Users\mcksl\Desktop\net\SampleProject\SampleLibrary\obj\Debug\net6.0\ref\SampleLibrary.dll
